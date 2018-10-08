@@ -10,5 +10,4 @@ Wechat: *EagleSilence_*
 <br/>
 Weibo: *[@ZhouQunying1992](https://www.weibo.com/eaglesilence)*
 
-<br/>
-**My Team**: *Baidu Video FE*
+**My Team:** *Baidu Video FE*
