@@ -1,7 +1,5 @@
 ### About Me
 
-Team: *Baidu Video FE*
-<br/>
 Email: *zhouqunying1992@gmail.com*
 <br/>
 Twitter: *[@ZhouQunying](https://twitter.com/ZhouQunying)*
@@ -11,3 +9,6 @@ Facebook: *[@ZhouQunying](https://www.facebook.com/ZhouQunying)*
 Wechat: *EagleSilence_*
 <br/>
 Weibo: *[@ZhouQunying1992](https://www.weibo.com/eaglesilence)*
+
+<br/>
+**My Team**: *Baidu Video FE*
